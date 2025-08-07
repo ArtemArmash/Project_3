@@ -1,4 +1,3 @@
-```markdown
 # Simple C++ Struct Example
 
 This is a basic C++ console application that demonstrates the use of structs, header files, and simple user input/output. The program prompts the user to enter their name and age, and then displays the entered information back to the console.
